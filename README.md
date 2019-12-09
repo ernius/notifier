@@ -2,6 +2,10 @@
 
 Websocket and HTTP server where authenticated users can subscribe to changes.
 
+# Run quick example
+
+> ./runexample.sh
+
 # API
 
 ## Called by app-clients through websocket:
