@@ -27,9 +27,7 @@ dependencies:
 - aeson
 - async
 - bytestring
-- conduit
 - exceptions
-- resourcet
 - monad-control
 - servant-server
 - text
@@ -38,7 +36,6 @@ dependencies:
 - warp
 - websockets
 - stm
-- network
 - mtl
 
 library:
